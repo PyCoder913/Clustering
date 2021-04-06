@@ -1,2 +1,2 @@
-# Coursera Capstone
-The Capstone Project on Coursera under the IBM Data Science Professional Certificate Course
+# Clustering
+This project is based on the K-Means clustering algorithm.
